@@ -24,4 +24,3 @@ int main(void)
         printf("none");
     return 0;
 }
-}
